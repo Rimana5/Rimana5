@@ -1,5 +1,5 @@
 Hi. I am Artyom.
-Interested in python and SQL
+Interested in python, SQL, Go
 
 <!---
 Rimana5/Rimana5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
